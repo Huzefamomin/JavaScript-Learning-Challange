@@ -24,6 +24,8 @@ console.log(undefined > 0);
 console.log("2"===2);
 console.log(2===2);
 console.log("2"==2);
+
+
 // ==  double equels checks the values
 // ===   triple equals it checks the value strickly it checks the values and datatype both.
 
