@@ -38,7 +38,7 @@ console.log(url.includes('huzefa'));
 
 console.log(gameName.split(';'));
 
-// Methods of String 
+// Methods (functions) of String 
 // : 
 // ƒ anchor()
 // at
